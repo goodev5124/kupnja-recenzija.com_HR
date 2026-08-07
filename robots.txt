@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /hvala.html
 
-# Sitemap
 Sitemap: https://kupnja-recenzija.com/sitemap.xml

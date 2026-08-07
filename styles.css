@@ -59,8 +59,6 @@ img {
     padding: 0 24px;
 }
 
-/* ===================== BOUTONS ===================== */
-
 .btn {
     display: inline-block;
     padding: 15px 36px;
@@ -119,8 +117,6 @@ img {
 .btn-full {
     width: 100%;
 }
-
-/* ===================== HEADER ===================== */
 
 .header {
     position: fixed;
@@ -301,8 +297,6 @@ img {
     transition: var(--transition);
 }
 
-/* ===================== HERO ===================== */
-
 .hero {
     padding: 180px 0 80px;
     background: linear-gradient(135deg, var(--dark) 0%, #1E293B 100%);
@@ -394,8 +388,6 @@ img {
     50% { transform: translateY(-8px) rotate(0.5deg); }
 }
 
-/* ===================== PROMO BAR ===================== */
-
 .promo-bar {
     background: var(--accent);
     color: var(--white);
@@ -423,8 +415,6 @@ img {
     font-size: 12px;
     letter-spacing: 1.5px;
 }
-
-/* ===================== STATS ===================== */
 
 .stats {
     padding: 0;
@@ -469,8 +459,6 @@ img {
     line-height: 1.5;
     font-weight: 500;
 }
-
-/* ===================== CREDIBILITY ===================== */
 
 .credibility {
     padding: 110px 0;
@@ -563,8 +551,6 @@ img {
     direction: ltr;
 }
 
-/* ===================== HOW IT WORKS ===================== */
-
 .how-it-works {
     padding: 110px 0;
     background: var(--white);
@@ -643,8 +629,6 @@ img {
     color: var(--gray);
     line-height: 1.7;
 }
-
-/* ===================== PRICING ===================== */
 
 .pricing {
     padding: 110px 0;
@@ -783,8 +767,6 @@ img {
     color: var(--white);
 }
 
-/* ===================== FAQ ===================== */
-
 .faq {
     padding: 110px 0;
     background: var(--white);
@@ -860,8 +842,6 @@ img {
     line-height: 1.8;
 }
 
-/* ===================== TESTIMONIALS ===================== */
-
 .testimonials {
     padding: 110px 0;
     background: var(--light);
@@ -901,8 +881,6 @@ img {
     height: auto;
     display: block;
 }
-
-/* ===================== SEO CONTENT ===================== */
 
 .seo-content {
     padding: 100px 0;
@@ -950,8 +928,6 @@ img {
 .seo-text a:hover {
     color: var(--primary);
 }
-
-/* ===================== FOOTER ===================== */
 
 .footer {
     background: var(--primary-dark);
@@ -1026,8 +1002,6 @@ img {
     letter-spacing: 0.3px;
 }
 
-/* ===================== RESPONSIVE 1024px ===================== */
-
 @media (max-width: 1024px) {
     .hero-content h1 {
         font-size: 36px;
@@ -1050,8 +1024,6 @@ img {
         gap: 40px;
     }
 }
-
-/* ===================== RESPONSIVE 768px ===================== */
 
 @media (max-width: 768px) {
     .menu-toggle {
@@ -1319,8 +1291,6 @@ img {
         max-width: 280px;
     }
 }
-
-/* ===================== RESPONSIVE 480px ===================== */
 
 @media (max-width: 480px) {
     .promo-bar {
